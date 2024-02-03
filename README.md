@@ -23,7 +23,7 @@
 
 ### Business Goals
 **<u>Mission</u>:** <br />
-To facilitate storing, accessing, and tracking families’ health information and ease follow-up actions as a household. <br />
+To facilitate storing, accessing, and tracking families’ health information and ease follow-up actions as a household. <br /> <br />
 **<u>Goals</u>:** <br />
 - **Enhance Health Management Efficiency:** <br />
   Streamline the process of managing health records and appointments for families, reducing the time and effort required to maintain up-to-date health information.
