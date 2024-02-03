@@ -22,9 +22,9 @@
 "HestiaHub" is a mobile application that aims to develop a comprehensive, centralized platform that serves both as a family health management system and a personal health record. It is designed to facilitate families and individuals in managing health records, tracking vaccinations, and scheduling preventive health check-ups. By integrating these functionalities into a single user-friendly dashboard, HestiaHub seeks to enhance the overall health management experience, making it more accessible, efficient, and personalized. Its comprehensive and worldwide capabilities are designed to support even the most itinerant families in monitoring their health and well-being.
 
 ### Business Goals
-**<u> Mission </u>:** <br />
-To facilitate storing, accessing, and tracking families’ health information and ease follow-up actions as a household.
-**<u> Goals </u>:** <br />
+**<u>Mission</u>:** <br />
+To facilitate storing, accessing, and tracking families’ health information and ease follow-up actions as a household. <br />
+**<u>Goals</u>:** <br />
 - **Enhance Health Management Efficiency:** <br />
   Streamline the process of managing health records and appointments for families, reducing the time and effort required to maintain up-to-date health information.
   
